@@ -22,7 +22,7 @@ sudo ./setup.sh
 
 (Pour effacer ce qui a été déployé, il suffit de lancer les mêmes commandes sur le fichier undeploy.sh)
 ```bash
-chmod +x setup.sh
+chmod +x undeploy.sh
 ```
 ```bash
 sudo ./undeploy.sh
