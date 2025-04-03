@@ -19,3 +19,11 @@ sudo ./setup.sh
 ✅ Un serveur avec Nginx, PHP, et MySQL installé<br>
 ✅ Une application web de test disponible sur http://votre-serveur/<br>
 ✅ Un accès à MySQL avec un utilisateur et une base de données configurés
+
+(Pour effacer ce qui a été déployé, il suffit de lancer les mêmes commandes sur le fichier undeploy.sh)
+```bash
+chmod +x setup.sh
+```
+```bash
+sudo ./undeploy.sh
+```
